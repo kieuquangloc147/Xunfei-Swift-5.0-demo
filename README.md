@@ -1,4 +1,12 @@
 # xunfei-demo
+
+Loc note:
+
+1. You should change your app ID in AppDelegate.swift
+2. Hold long record button to start speaking
+
+
+
 ifly
 使用科大讯飞sdk基本流程
 
